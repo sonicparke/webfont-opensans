@@ -1,8 +1,9 @@
 {
   "name": "WebFont-OpenSans",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
-    "sonicparke <github@sonicparke.com>"
+    "sonicparke <github@sonicparke.com>",
+    "lucasmciruzzi <lucasmciruzzi@live.com>"
   ],
   "description": "Google WebFonts OpenSans For Bower Install",
   "main": "stylesheet.css",
