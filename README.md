@@ -1,4 +1,4 @@
-OpenSans for Bower Install
+Extended OpenSans for Bower Install
 ===============================
 Had forgotten where I actually got this from http://www.fontsquirrel.com/fonts/open-sans.
 
