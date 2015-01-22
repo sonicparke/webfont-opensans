@@ -5,7 +5,7 @@
     "sonicparke <github@sonicparke.com>"
   ],
   "description": "Google WebFonts OpenSans For Bower Install",
-  "main": "stylesheet.css",
+  "main": "css/stylesheet.css",
   "keywords": [
     "opensans",
     "webfont"
